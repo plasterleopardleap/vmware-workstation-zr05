@@ -1,4 +1,4 @@
-# 
+# advanced VMware Workstation PC版 扩展 是最佳 VMware Workstation PC版 扩展，集成 USB直通 和 网络配置。安全、可靠、优化，性能最大化。
 
 
 
